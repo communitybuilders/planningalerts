@@ -1,0 +1,6 @@
+[submodule "planningalerts-parsers"]
+	path = planningalerts-parsers
+	url = git@git.openaustralia.org:planningalerts-parsers.git
+[submodule "planningalerts-app"]
+	path = planningalerts-app
+	url = git@git.openaustralia.org:planningalerts-app.git
